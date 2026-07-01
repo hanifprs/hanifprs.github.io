@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a poster presentation on the latest paper findings regarding coral cover and marine heatwaves at the JpGU AGU 2026.
+Presented a poster presentation on the latest paper findings regarding coral cover and marine heatwaves at the <a href="https://www.jpgu.org/meeting_e2026/sessionlist_en/detail/A-OS25.html">JpGU AGU 2026</a>.
