@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's Student at <a href="https://ioccg.org/what-we-do/training-and-education/ioccg-sls/">Tohoku University</a>, Sendai, Japan.
+subtitle: Master's Student at <a href="https://www.tohoku.ac.jp/en/">Tohoku University</a>, Sendai, Japan.
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Researcher with focus on ocean remote sensing, ecology, climate and physical oceanography for the past ± 5 years—experienced working at various international research centres and projects in Indonesia, South Korea and Japan. Currently at the Centre for Atmospheric and Oceanic Research (CAOS), <a href="https://ioccg.org/what-we-do/training-and-education/ioccg-sls/">Satellite Oceanography LaboratoryUniversity</a> as a master's student.
+Researcher with focus on ocean remote sensing, ecology, climate and physical oceanography for the past ± 5 years—experienced working at various international research centres and projects in Indonesia, South Korea and Japan. Currently at the Centre for Atmospheric and Oceanic Research (CAOS), <a href="https://caos.sakura.ne.jp/sao/">Satellite Oceanography Laboratory</a> as a master's student.
