@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participating in the 7th International Ocean Colour Coordinating Group (IOCCG) Summer Lecture Series in Venice, Italy.
+Selected for participating in the 7th International Ocean Colour Coordinating Group (IOCCG) Summer Lecture Series <a href="https://ioccg.org/what-we-do/training-and-education/ioccg-sls/">(SLS)</a> in Venice, Italy.
